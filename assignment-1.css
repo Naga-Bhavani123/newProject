@@ -1,0 +1,40 @@
+.inputstyle {
+  width: 100%;
+  padding: 5px;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.insideCart {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.new {
+  align-self: flex-start;
+  width: 20px;
+  padding: 1px;
+  border-radius: 1px;
+  padding-right: 2px;
+}
+
+.image {
+  width: 30px;
+  height: 50px;
+  padding-right: 2px;
+}
+.content {
+}
+.cartStyle {
+  background-color: blue;
+  padding: 10px;
+  width: 100%;
+  margin: 10%;
+}
